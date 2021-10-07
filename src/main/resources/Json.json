@@ -2,81 +2,81 @@
   "content": [
     {
       "id": {
-        "userId": "admin",
+        "userId": "....",
         "providerId": 1
       },
-      "username": "admin",
-      "firstName": "Meet",
-      "lastName": "Administrator",
-      "email": "meet.admin@gmail.com",
+      "username": "....",
+      "firstName": "....",
+      "lastName": "....",
+      "email": "....",
       "enabled": true,
       "pre_defined": true,
       "avatarExists": false,
       "role": {
         "id": 1,
-        "name": "ROLE_ADMIN"
+        "name": "...."
       },
       "provider": {
         "id": 1,
-        "name": "local",
-        "issuer": "https://meet.detaysoft.com/auth/realms/100",
-        "domain": "https://bnet.bnetportal.com",
-        "chatKey": "100:BNET100:MEETUSER:CB8D57559D844205B0D23B4A541D2A9B"
+        "name": "....",
+        "issuer": "....",
+        "domain": "....",
+        "chatKey": "...."
       },
-      "viewLink": "http://meet.detaysoft.com/api/versions/1/users/admin/avatar?provider=local",
-      "fullName": "Meet Administrator"
+      "viewLink": "....",
+      "fullName": "...."
     },
     {
       "id": {
-        "userId": "111053356749076855883",
+        "userId": "....",
         "providerId": 4
       },
-      "username": "suaybsimsek58@gmail.com",
-      "firstName": "Şuayb",
-      "lastName": "Şimşek",
-      "email": "suaybsimsek58@gmail.com",
+      "username": "....",
+      "firstName": "....",
+      "lastName": "....",
+      "email": "....",
       "enabled": true,
       "pre_defined": false,
       "avatarExists": false,
       "role": {
         "id": 2,
-        "name": "ROLE_USER"
+        "name": "...."
       },
       "provider": {
         "id": 4,
-        "name": "google",
-        "issuer": "https://accounts.google.com/o/oauth2/v2/auth",
+        "name": "....",
+        "issuer": "....",
         "domain": null,
         "chatKey": null
       },
-      "viewLink": "http://meet.detaysoft.com/api/versions/1/users/111053356749076855883/avatar?provider=google",
-      "fullName": "Şuayb Şimşek"
+      "viewLink": "....",
+      "fullName": "...."
     },
     {
       "id": {
-        "userId": "COM0000121",
+        "userId": "....",
         "providerId": 3
       },
-      "username": "abdurrahman.eker@detaysoft.com",
-      "firstName": "ABDURRAHMAN",
-      "lastName": "EKER",
-      "email": "abdurrahman.eker@detaysoft.com",
+      "username": "....",
+      "firstName": "....",
+      "lastName": "....",
+      "email": "....",
       "enabled": true,
       "pre_defined": false,
       "avatarExists": false,
       "role": {
         "id": 3,
-        "name": "ROLE_MODERATOR"
+        "name": "...."
       },
       "provider": {
         "id": 3,
-        "name": "piramtekold",
-        "issuer": "https://bnet.piramtek.com/auth/realms/100old",
-        "domain": "https://bnet.piramtek.comold",
-        "chatKey": "100:BNET100:MEETUSER:D558215F752D304D40CD57FABDFBE533"
+        "name": "....",
+        "issuer": "....",
+        "domain": "....",
+        "chatKey": "...."
       },
-      "viewLink": "http://meet.detaysoft.com/api/versions/1/users/COM0000121/avatar?provider=piramtekold",
-      "fullName": "ABDURRAHMAN EKER"
+      "viewLink": "....",
+      "fullName": "...."
     }
   ],
   "pageable": {
