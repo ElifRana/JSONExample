@@ -1,0 +1,107 @@
+{
+  "content": [
+    {
+      "id": {
+        "userId": "admin",
+        "providerId": 1
+      },
+      "username": "admin",
+      "firstName": "Meet",
+      "lastName": "Administrator",
+      "email": "meet.admin@gmail.com",
+      "enabled": true,
+      "pre_defined": true,
+      "avatarExists": false,
+      "role": {
+        "id": 1,
+        "name": "ROLE_ADMIN"
+      },
+      "provider": {
+        "id": 1,
+        "name": "local",
+        "issuer": "https://meet.detaysoft.com/auth/realms/100",
+        "domain": "https://bnet.bnetportal.com",
+        "chatKey": "100:BNET100:MEETUSER:CB8D57559D844205B0D23B4A541D2A9B"
+      },
+      "viewLink": "http://meet.detaysoft.com/api/versions/1/users/admin/avatar?provider=local",
+      "fullName": "Meet Administrator"
+    },
+    {
+      "id": {
+        "userId": "111053356749076855883",
+        "providerId": 4
+      },
+      "username": "suaybsimsek58@gmail.com",
+      "firstName": "Şuayb",
+      "lastName": "Şimşek",
+      "email": "suaybsimsek58@gmail.com",
+      "enabled": true,
+      "pre_defined": false,
+      "avatarExists": false,
+      "role": {
+        "id": 2,
+        "name": "ROLE_USER"
+      },
+      "provider": {
+        "id": 4,
+        "name": "google",
+        "issuer": "https://accounts.google.com/o/oauth2/v2/auth",
+        "domain": null,
+        "chatKey": null
+      },
+      "viewLink": "http://meet.detaysoft.com/api/versions/1/users/111053356749076855883/avatar?provider=google",
+      "fullName": "Şuayb Şimşek"
+    },
+    {
+      "id": {
+        "userId": "COM0000121",
+        "providerId": 3
+      },
+      "username": "abdurrahman.eker@detaysoft.com",
+      "firstName": "ABDURRAHMAN",
+      "lastName": "EKER",
+      "email": "abdurrahman.eker@detaysoft.com",
+      "enabled": true,
+      "pre_defined": false,
+      "avatarExists": false,
+      "role": {
+        "id": 3,
+        "name": "ROLE_MODERATOR"
+      },
+      "provider": {
+        "id": 3,
+        "name": "piramtekold",
+        "issuer": "https://bnet.piramtek.com/auth/realms/100old",
+        "domain": "https://bnet.piramtek.comold",
+        "chatKey": "100:BNET100:MEETUSER:D558215F752D304D40CD57FABDFBE533"
+      },
+      "viewLink": "http://meet.detaysoft.com/api/versions/1/users/COM0000121/avatar?provider=piramtekold",
+      "fullName": "ABDURRAHMAN EKER"
+    }
+  ],
+  "pageable": {
+    "sort": {
+      "sorted": false,
+      "unsorted": true,
+      "empty": true
+    },
+    "pageNumber": 0,
+    "pageSize": 3,
+    "offset": 0,
+    "paged": true,
+    "unpaged": false
+  },
+  "totalPages": 1139,
+  "totalElements": 3416,
+  "last": false,
+  "first": true,
+  "sort": {
+    "sorted": false,
+    "unsorted": true,
+    "empty": true
+  },
+  "size": 3,
+  "number": 0,
+  "numberOfElements": 3,
+  "empty": false
+}
